@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2041
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4thDigit", "..\4thDigit\4thDigit.csproj", "{366C1AB6-A8F0-4C1B-A134-FBB35E452CA5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelingToSunWithSoundSpeed", "..\TravelingToSunWithSoundSpeed\TravelingToSunWithSoundSpeed.csproj", "{229F357A-D401-4666-AFA1-8C9074C067F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{366C1AB6-A8F0-4C1B-A134-FBB35E452CA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{366C1AB6-A8F0-4C1B-A134-FBB35E452CA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{366C1AB6-A8F0-4C1B-A134-FBB35E452CA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{229F357A-D401-4666-AFA1-8C9074C067F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{229F357A-D401-4666-AFA1-8C9074C067F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{229F357A-D401-4666-AFA1-8C9074C067F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{229F357A-D401-4666-AFA1-8C9074C067F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
