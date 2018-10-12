@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4thDigit", "..\4thDigit\4th
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelingToSunWithSoundSpeed", "..\TravelingToSunWithSoundSpeed\TravelingToSunWithSoundSpeed.csproj", "{229F357A-D401-4666-AFA1-8C9074C067F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateWeightInTheSolarSystem", "..\CalculateWeightInTheSolarSystem\CalculateWeightInTheSolarSystem.csproj", "{C680834F-58F4-453D-89E6-3E35C1D9DA93}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{229F357A-D401-4666-AFA1-8C9074C067F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{229F357A-D401-4666-AFA1-8C9074C067F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{229F357A-D401-4666-AFA1-8C9074C067F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C680834F-58F4-453D-89E6-3E35C1D9DA93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C680834F-58F4-453D-89E6-3E35C1D9DA93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C680834F-58F4-453D-89E6-3E35C1D9DA93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C680834F-58F4-453D-89E6-3E35C1D9DA93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
