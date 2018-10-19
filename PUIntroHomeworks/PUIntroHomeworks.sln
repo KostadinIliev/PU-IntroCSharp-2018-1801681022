@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2041
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusTicketLuckyNumbers", "BusTicketLuckyNumbers\BusTicketLuckyNumbers.csproj", "{CF68E20D-B469-4E7B-B1BA-2DAAB0E1A306}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiserPiggy", "MiserPiggy\MiserPiggy.csproj", "{28190CD6-6D7D-4007-ABF8-847276CEF1FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CF68E20D-B469-4E7B-B1BA-2DAAB0E1A306}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF68E20D-B469-4E7B-B1BA-2DAAB0E1A306}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF68E20D-B469-4E7B-B1BA-2DAAB0E1A306}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28190CD6-6D7D-4007-ABF8-847276CEF1FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28190CD6-6D7D-4007-ABF8-847276CEF1FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28190CD6-6D7D-4007-ABF8-847276CEF1FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28190CD6-6D7D-4007-ABF8-847276CEF1FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
